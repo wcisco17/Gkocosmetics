@@ -1,0 +1,69 @@
+/* Adjusment (--Fonts) */
+ @import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
+ /* Navigation */
+.navbar {
+  border-bottom: 3px solid #B17373;
+}
+.nav-item {
+  font-family: 'Old Standard TT', serif;
+
+}
+.clr-1 {
+  color: #B17373;
+}
+/* Cover */
+.head-1 {
+  font-size: 40px;
+}
+.carousel-caption {
+    top: 40%;
+    bottom: auto;
+    font-weight: bold;
+    font-family: 'Old Standard TT', serif;
+}
+.img-1 {
+background-position: center;
+background-size: cover;
+}
+/* Welcome page */
+#main-footer {
+  padding-top: 30px;
+  height: 15vh;
+}
+#main-html {
+  background-color: #B17373;
+}
+/* Services HTML */
+#service-head {
+  background-image: url('../img/bck1.jpg');
+  background-position: center;
+  background-size: cover;
+  height: 30vh;
+}
+
+.crl {
+border-bottom: 3px solid #B17373;
+}
+.l {
+  font-size: 40px;
+}
+.b {
+  box-shadow: 4px 4px 6px 4px  #111;
+}
+
+/* OFFERS PAGE */
+#offer-head {
+  background-image: url('../img/offers-head.jpg');
+  background-size: cover;
+  background-position: center;
+height: 30vh;
+
+}
+/* Contact header */
+
+#contact-header {
+  background-image: url('../img/contact-pg.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 30vh;
+}
